@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+# 🍽️ FoodLens
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**FoodLens** is a smart ingredient safety app that helps users make healthier and safer food choices.  
+By scanning food labels, it reveals hidden health risks, global bans, safer alternatives, and live regulation updates—all in real-time.  
 
-## Get started
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+- **Ingredient Risk Profiling** → Personalized health warnings (e.g., "High sodium—risk for hypertension").  
+- **Global Ban Map** → Interactive world map of restricted/banned ingredients.  
+- **Smart Alternatives** → Suggests healthier, local ingredient options.  
+- **Trend Analysis** → See trending harmful ingredients in your region.  
+- **Health Score Reports** → Monthly reports with insights and graphs.  
+- **Community Feedback** → Crowdsourced ingredient and product database.  
+- **Real-Time Alerts** → Notifications for recalls and new regulations.  
+- **AR Shopping Assistant** → Spot hazards on shelves using AR.  
+- **Ingredient Education** → Simple explanations of chemical names and additives.  
+- **Multi-Language Support** → Localized ingredient warnings and insights.  
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tech Stack (Planned)
+- **Frontend:** React Native 
+- **Backend:** Node.js  
+- **Database:** MongoDB  
+- **APIs:** Nutrition & regulation datasets, crowdsourced data  
+- **AR Support:** ARCore / ARKit  
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
